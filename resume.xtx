@@ -1,0 +1,190 @@
+% vi:ft=tex
+\documentclass[]{deedy-resume-openfont}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LAST UPDATED DATE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lastupdated{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     TITLE NAME
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Utkarsh}{Maheshwari}{%
+    \sectionsep{}
+    {\Large Software Engineer \textbullet{}
+    Open Source Supporter}\break{}
+    \urlstyle{same}\href{https://coditva.dev/}{coditva.dev} |
+    \href{mailto:coditva@gmail.com}{coditva@gmail.com}
+    \sectionsep{}
+}
+\sectionsep{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COLUMN ONE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{minipage}[t]{0.33\textwidth}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Links}
+Github:// \href{https://github.com/coditva}{\bf coditva} \\
+Twitter://  \href{https://twitter.com/coditva}{\bf coditva} \\
+LinkedIn://  \href{https://www.linkedin.com/in/coditva}{\bf coditva}
+    \sectionsep{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Education}
+
+\subsection{Birla Institute of\newline Technology and Science,\newline Pilani}
+    \descript{B.E. in Computer Science}
+    \location{2019 | Goa, India}
+    \sectionsep{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Languages}
+\subsection{Proficient:}
+C \textbullet{} NodeJS \textbullet{} Shell \\
+\sectionsep
+\subsection{Working knowledge:}
+C++ \textbullet{} Java \textbullet{} Python \textbullet{} Lua \textbullet{} \\
+Scala \textbullet{} Assembly \textbullet{} Web Tech \textbullet{} \\
+PHP \textbullet{} SQL \textbullet{} MongoDB \textbullet{} LaTeX \\
+    \sectionsep{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     TOOLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Tools}
+Vim \textbullet{} Linux \textbullet{} Git \textbullet{} Docker \textbullet{} \\
+Make/Cmake \textbullet{} TravisCI \\
+    \sectionsep{}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Open Source
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Open Source}
+Neovim \textbullet{} Elementary Tweaks \textbullet{} Gnome Todo \textbullet{}
+BaremetalOS \\
+    \sectionsep{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Hobbies
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Hobbies}
+Literature \textbullet{} Philosophy \textbullet{} Playing Bass Guitar \textbullet{} Cooking \textbullet{} Photography \textbullet{} Graphics Design \\
+    \sectionsep{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     References
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{References}
+\subsection{Subhasis Bhattacharya}
+\location{Director - Software Engineering}
+PBSWorks, Altair Engineering
+\sectionsep{}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.66\textwidth}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Experience}
+\runsubsection{Postman}
+\descript{| Software Engineer}
+\location{Jun 2019 - present | Bangalore, India}
+    \sectionsep{}
+
+\runsubsection{PBSWorks, Altair Engineering}
+\descript{| Software Engg. Intern}
+\location{Jul 2018 - Dec 2018 | Bangalore, India}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+    \item Led and completed the project for adding support in Apache Spark to
+        use PBSPro as a cluster workload manager.
+    \item {\bf \href{https://github.com/PBSPro/spark-pbspro-connector}{github.com/pbspro/spark-pbspro-connector}}
+\end{tightemize}
+    \sectionsep{}
+
+\runsubsection{Neovim}
+\descript{| Google Summer of Code Student}
+\location{May 2018 – Aug 2018 | Remote}
+\begin{tightemize}
+    \item Improved external UI protocol to allow applications to provide ``vim-mode''.
+    \item
+        {\bf \href{https://github.com/neovim/neovim/issues/8320}{github.com/neovim/neovim/issues/8320}}
+\end{tightemize}
+    \sectionsep{}
+
+\runsubsection{AIIMS Bhopal}
+\descript{| Software Engg. Intern}
+\location{Jun 2018 – Jul 2018 | Bhopal, India}
+\begin{tightemize}
+    \item Wrote the backend for a webapp for medical reports and inventory management.
+    \item
+        {\bf \href{https://github.com/BitsAiims2017/api}{github.com/bitsaiims2017/api}}
+\end{tightemize}
+    \sectionsep{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PROJECTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Projects}
+\runsubsection{Jazz}
+\descript{| OS Development}
+\location{\href{https://github.com/coditva/Jazz}{github.com/coditva/Jazz}}
+Jazz is a hobby OS in its early stages written from scratch as a proof of concept to understand OS by doing.
+    \sectionsep{}
+
+\runsubsection{UDT Protocol implementation}
+\descript{| Network Programming}
+\location{\href{https://github.com/coditva/udt-c}{github.com/coditva/udt-c}}
+An implementation of the UDP-based Data Transfer (UDT) protocol in C. UDT is
+a much faster data transfer protocol than TCP with a socket interface just
+like TCP.
+    \sectionsep{}
+
+\runsubsection{Synergy}
+\descript{| Network Programming}
+\location{\href{https://github.com/coditva/Synergy-linux}{github.com/coditva/Synergy-linux}}
+An application to sync Android and Linux notifications when connected to the
+same local network, written in C and allows extension through plugins.
+\sectionsep{}
+
+\runsubsection{Write. Run. Tweak.}
+\descript{| 2D Game Development}
+\location{\href{https://github.com/coditva/WRT}{github.com/coditva/WRT}}
+A game submission for GitHubGameOff 2019 game jam written in Lua and LOVE2d.
+\sectionsep{}
+
+\runsubsection{A Vim Story}
+\descript{| Low Graphics Game Development}
+\location{\href{https://github.com/coditva/a-vim-story}{github.com/coditva/a-vim-story}}
+A ncurses based 2D (bomberman-like) game to learn Vi/Vim, written purely in C
+language with LibNcurses, CMake, Doxygen.
+\sectionsep{}
+
+\end{minipage}
+\end{document}  \documentclass[]{article}
