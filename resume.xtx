@@ -15,13 +15,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     TITLE NAME
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Utkarsh}{Maheshwari}{%
+\namesection{Utkarsh}{Maheshwari}{
     \sectionsep{}
-    {\Large Software Engineer \textbullet{}
-    Open Source Supporter}\break{}
-    \urlstyle{same}\href{https://coditva.dev/}{coditva.dev} |
-    \href{mailto:coditva@gmail.com}{coditva@gmail.com}
-    \sectionsep{}
+    {\Large Software Engineer \textbullet{} Systems Programmer}
 }
 \sectionsep{}
 
@@ -30,36 +26,40 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{minipage}[t]{0.33\textwidth}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     LINKS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Links}
-Github:// \href{https://github.com/coditva}{\bf coditva} \\
-Twitter://  \href{https://twitter.com/coditva}{\bf coditva} \\
-LinkedIn://  \href{https://www.linkedin.com/in/coditva}{\bf coditva}
-    \sectionsep{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     EDUCATION
+%     Online Links
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Education}
+\section{Digital footprint}
+\subsection{Blog}
+    \urlstyle{same}\href{https://coditva.dev/}{{\bf coditva}.dev}
+    \sectionsep
 
-\subsection{Birla Institute of\newline Technology and Science,\newline Pilani}
-    \descript{B.E. in Computer Science}
-    \location{2019 | Goa, India}
-    \sectionsep{}
+\subsection{Email}
+    \href{mailto:coditva@gmail.com}{{\bf coditva}@gmail.com}
+    \sectionsep
+
+\subsection{PGP Key}
+    \href{http://keys.gnupg.net/pks/lookup?op=vindex&fingerprint=on&search=0x5A40E60FB40CDEBE}{5A40E60FB40CDEBE}
+    \sectionsep
+
+\subsection{Social}
+    \href{https://github.com/coditva}{github/\bf coditva} \\
+    \href{https://twitter.com/coditva}{twitter/\bf coditva} \\
+    \href{https://www.linkedin.com/in/coditva}{linkedin/\bf coditva}
+    \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Languages}
-\subsection{Proficient:}
-C \textbullet{} NodeJS \textbullet{} Shell \\
+\subsection{Proficient}
+C \textbullet{} NodeJS \textbullet{} Shell
 \sectionsep
-\subsection{Working knowledge:}
+\subsection{Working knowledge}
 C++ \textbullet{} Java \textbullet{} Python \textbullet{} Lua \textbullet{} \\
 Scala \textbullet{} Assembly \textbullet{} Web Tech \textbullet{} \\
-PHP \textbullet{} SQL \textbullet{} MongoDB \textbullet{} LaTeX \\
+PHP \textbullet{} SQL \textbullet{} MongoDB \textbullet{} LaTeX
     \sectionsep{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -67,7 +67,7 @@ PHP \textbullet{} SQL \textbullet{} MongoDB \textbullet{} LaTeX \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Tools}
 Vim \textbullet{} Linux \textbullet{} Git \textbullet{} Docker \textbullet{} \\
-Make/Cmake \textbullet{} TravisCI \\
+Make/Cmake \textbullet{} TravisCI
     \sectionsep{}
 
 
@@ -75,16 +75,18 @@ Make/Cmake \textbullet{} TravisCI \\
 %     Open Source
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Open Source}
-Neovim \textbullet{} Elementary Tweaks \textbullet{} Gnome Todo \textbullet{}
-BaremetalOS \\
+Neovim \textbullet{} Elementary Tweaks \textbullet{} \\
+Gnome Todo \textbullet{} BaremetalOS
     \sectionsep{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Hobbies
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Hobbies}
-Literature \textbullet{} Philosophy \textbullet{} Playing Bass Guitar \textbullet{} Cooking \textbullet{} Photography \textbullet{} Graphics Design \\
-    \sectionsep{}
+Literature \textbullet{} Philosophy \textbullet{} \\
+Playing Bass Guitar \textbullet{} Cooking \textbullet{} \\
+Photography \textbullet{} Graphics Design
+\sectionsep{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     References
@@ -145,6 +147,16 @@ PBSWorks, Altair Engineering
     \item
         {\bf \href{https://github.com/BitsAiims2017/api}{github.com/bitsaiims2017/api}}
 \end{tightemize}
+    \sectionsep{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Education}
+\runsubsection{Birla Institute of Technology and Science, Pilani}
+    \descript{Bachelor of Engineering}
+    \location{Computer Science}
+    2019 | Goa, India
     \sectionsep{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
