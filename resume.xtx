@@ -43,7 +43,7 @@
     \sectionsep
 
 \subsection{PGP Key}
-    \href{http://keys.gnupg.net/pks/lookup?op=vindex&fingerprint=on&search=0x5A40E60FB40CDEBE}{5A40E60FB40CDEBE}
+    \href{http://keys.gnupg.net/pks/lookup?op=get&search=0x5A40E60FB40CDEBE}{5A40E60FB40CDEBE}
     \sectionsep
 
 \subsection{Social}
