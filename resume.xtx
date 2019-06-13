@@ -57,7 +57,7 @@
 C \textbullet{} NodeJS \textbullet{} Shell
 \sectionsep
 \subsection{Working knowledge}
-C++ \textbullet{} Java \textbullet{} Python \textbullet{} Lua \textbullet{} \\
+C++ \textbullet{} Java \textbullet{} Python \textbullet{} Go \textbullet{} Lua \textbullet{} \\
 Scala \textbullet{} Assembly \textbullet{} Web Tech \textbullet{} \\
 PHP \textbullet{} SQL \textbullet{} MongoDB \textbullet{} LaTeX
     \sectionsep{}
@@ -154,9 +154,9 @@ PBSWorks, Altair Engineering
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Education}
 \runsubsection{Birla Institute of Technology and Science, Pilani}
-    \descript{Bachelor of Engineering}
-    \location{Computer Science}
-    2019 | Goa, India
+    \descript{Bachelor of Engineering, Computer Science}
+    \location{2019 | Goa, India}
+    Elective Courses: Network Programming, Internetworking Technologies, Software Engineering and Software for Embedded Systems.
     \sectionsep{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
