@@ -1,5 +1,5 @@
 % vi:ft=tex
-\documentclass[]{deedy-resume-openfont}
+\documentclass[]{deedy-openfont}
 \usepackage{fancyhdr}
 
 \pagestyle{fancy}
