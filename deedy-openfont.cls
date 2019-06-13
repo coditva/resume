@@ -72,7 +72,7 @@ Last Updated on \today
 
 \newcommand{\runimagesubsection}[2]{
     \begin{minipage}{0.06\textwidth}
-        \includegraphics[width=0.8\textwidth]{#1}
+        \includegraphics[width=0.8\textwidth, height=0.8\textwidth]{#1}
     \end{minipage}
     \hfill
     \begin{minipage}{0.92\textwidth}

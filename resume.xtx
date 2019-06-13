@@ -159,7 +159,7 @@ PBSWorks, Altair Engineering
 \sectionsep{}
 
 
-\runimagesubsection{aiims.jpeg}{
+\runimagesubsection{aiims.png}{
     \runsubsection{AIIMS Bhopal}
     \descript{| Software Engg. Intern}
     \location{Jun 2018 – Jul 2018 | Bhopal, India}
@@ -175,11 +175,14 @@ PBSWorks, Altair Engineering
 %     EDUCATION
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Education}
-\runsubsection{Birla Institute of Technology and Science, Pilani}
-    \descript{Bachelor of Engineering, Computer Science}
+\runimagesubsection{bits.png}{
+    \runsubsection{Birla Institute of Technology and Science, Pilani} \\
     \location{2019 | Goa, India}
-    Elective Courses: Network Programming, Internetworking Technologies, Software Engineering and Software for Embedded Systems.
-    \sectionsep{}
+}
+\break
+\descript{Bachelor of Engineering, Computer Science}
+Elective Courses: Network Programming, Internetworking Technologies, Software Engineering and Software for Embedded Systems.
+\sectionsep{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     PROJECTS
