@@ -1,6 +1,9 @@
 % vi:ft=tex
 \documentclass[]{deedy-openfont}
 \usepackage{fancyhdr}
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+\usepackage{wrapfig}
 
 \pagestyle{fancy}
 \fancyhf{}
@@ -123,41 +126,50 @@ PBSWorks, Altair Engineering
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{Postman}
-\descript{| Software Engineer}
-\location{Jun 2019 - present | Bangalore, India}
-    \sectionsep{}
+    \runimagesubsection{postman.png}{
+    \runsubsection{Postman}
+    \descript{| Software Engineer}
+    \location{Jun 2019 - present | Bangalore, India}
+}
+\sectionsep{}
 
-\runsubsection{PBSWorks, Altair Engineering}
-\descript{| Software Engg. Intern}
-\location{Jul 2018 - Dec 2018 | Bangalore, India}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+
+\runimagesubsection{altair.png}{
+    \runsubsection{PBSWorks, Altair Engineering}
+    \descript{| Software Engg. Intern}
+    \location{Jul 2018 - Dec 2018 | Bangalore, India}
+}
 \begin{tightemize}
     \item Led and completed the project for adding support in Apache Spark to
         use PBSPro as a cluster workload manager.
     \item {\bf \href{https://github.com/PBSPro/spark-pbspro-connector}{github.com/pbspro/spark-pbspro-connector}}
 \end{tightemize}
-    \sectionsep{}
+\sectionsep{}
 
-\runsubsection{Neovim}
-\descript{| Google Summer of Code Student}
-\location{May 2018 – Aug 2018 | Remote}
+
+\runimagesubsection{neovim.png}{
+    \runsubsection{Neovim}
+    \descript{| Google Summer of Code Student}
+    \location{May 2018 – Aug 2018 | Remote}
+}
 \begin{tightemize}
     \item Improved external UI protocol to allow applications to provide ``vim-mode''.
-    \item
-        {\bf \href{https://github.com/neovim/neovim/issues/8320}{github.com/neovim/neovim/issues/8320}}
+    \item {\bf \href{https://github.com/neovim/neovim/issues/8320}{github.com/neovim/neovim/issues/8320}}
 \end{tightemize}
-    \sectionsep{}
+\sectionsep{}
 
-\runsubsection{AIIMS Bhopal}
-\descript{| Software Engg. Intern}
-\location{Jun 2018 – Jul 2018 | Bhopal, India}
+
+\runimagesubsection{aiims.jpeg}{
+    \runsubsection{AIIMS Bhopal}
+    \descript{| Software Engg. Intern}
+    \location{Jun 2018 – Jul 2018 | Bhopal, India}
+}
 \begin{tightemize}
     \item Wrote the backend for a webapp for medical reports and inventory management.
     \item
         {\bf \href{https://github.com/BitsAiims2017/api}{github.com/bitsaiims2017/api}}
 \end{tightemize}
-    \sectionsep{}
+\sectionsep{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EDUCATION

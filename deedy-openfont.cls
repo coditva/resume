@@ -65,10 +65,20 @@ Last Updated on \today
 
 % Subeadings command
 \titleformat{\subsection}{
-\color{subheadings}\fontspec[Path = fonts/lato/]{Lato-Bol}\fontsize{12pt}{12pt}\selectfont\bfseries\uppercase}{}{0em}{}
+\color{subheadings}\fontspec[Path = fonts/lato/]{Lato-Bol}\fontsize{11pt}{12pt}\selectfont\bfseries\uppercase}{}{0em}{}
 
 \newcommand{\runsubsection}[1]{
-\color{subheadings}\fontspec[Path = fonts/lato/]{Lato-Bol}\fontsize{12pt}{12pt}\selectfont\bfseries\uppercase {#1} \normalfont}
+\color{subheadings}\fontspec[Path = fonts/lato/]{Lato-Bol}\fontsize{11pt}{12pt}\selectfont\bfseries\uppercase {#1} \normalfont}
+
+\newcommand{\runimagesubsection}[2]{
+    \begin{minipage}{0.06\textwidth}
+        \includegraphics[width=0.8\textwidth]{#1}
+    \end{minipage}
+    \hfill
+    \begin{minipage}{0.92\textwidth}
+    { #2 }
+    \end{minipage}
+}
 
 % Descriptors command
 \newcommand{\descript}[1]{
