@@ -177,10 +177,9 @@ PBSWorks, Altair Engineering
 \section{Education}
 \runimagesubsection{bits.png}{
     \runsubsection{Birla Institute of Technology and Science, Pilani} \\
-    \location{2019 | Goa, India}
-}
-\break
-\descript{Bachelor of Engineering, Computer Science}
+    \descript{Bachelor of Engineering, Computer Science}
+    \location{Aug 2015 - May 2019 | Goa, India}
+} \break
 Elective Courses: Network Programming, Internetworking Technologies, Software Engineering and Software for Embedded Systems.
 \sectionsep{}
 
