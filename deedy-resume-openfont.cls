@@ -41,9 +41,9 @@ Last Updated on \today
 % Name command
 \newcommand{\namesection}[3]{
 \centering{
-\fontsize{40pt}{60pt}
-\fontspec[Path = fonts/lato/]{Lato-Hai}\selectfont #1 
-\fontspec[Path = fonts/lato/]{Lato-Lig}\selectfont #2
+    \fontsize{40pt}{70pt}
+    \fontspec[Path = fonts/lato/]{Lato-Lig}\selectfont #1 
+    \fontspec[Path = fonts/lato/]{Lato-Reg}\selectfont #2
 } \\[5pt]
 \centering{
 \color{headings}
