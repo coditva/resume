@@ -13,6 +13,7 @@ $(TARGET).pdf: $(SOURCES) $(FONTS) $(IMAGES) $(TARGET).out
 .PHONY = $(TARGET).out
 $(TARGET).out:
 	$(ENV) xelatex $(TARGET).xtx
+	echo $(GITHUB_TOKEN)
 
 clean:
 	rm -rf *.aux *.log *.out *.pdf
