@@ -14,6 +14,7 @@ $(TARGET).pdf: $(SOURCES) $(FONTS) $(IMAGES) $(TARGET).out
 $(TARGET).out:
 	$(ENV) xelatex $(TARGET).xtx
 	echo $(GITHUB_TOKEN)
+	echo some191919token
 
 clean:
 	rm -rf *.aux *.log *.out *.pdf
