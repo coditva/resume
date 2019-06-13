@@ -39,15 +39,16 @@ Last Updated on \today
 \end{textblock}}
 
 % Name command
-\newcommand{\namesection}[3]{
+\newcommand{\namesection}[4]{
 \centering{
-    \fontsize{40pt}{70pt}
+    \fontsize{35pt}{60pt}
     \fontspec[Path = fonts/lato/]{Lato-Lig}\selectfont #1 
     \fontspec[Path = fonts/lato/]{Lato-Reg}\selectfont #2
+    \fontspec[Path = fonts/lato/]{Lato-Hai}\selectfont (#3)
 } \\[5pt]
 \centering{
 \color{headings}
-\fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{11pt}{14pt}\selectfont #3}
+\fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{11pt}{14pt}\selectfont #4}
 \noindent\makebox[\linewidth]{\color{headings}\rule{\paperwidth}{0.4pt}}
 \vspace{-15pt}
 }

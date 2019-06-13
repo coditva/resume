@@ -6,7 +6,7 @@
 \fancyhf{}
 
 \hypersetup{
-    pdftitle={Utkarsh Maheshwari | Resume},
+    pdftitle={Utkarsh Maheshwari (coditva) | Resume},
     pdfsubject={Resume},
     pdfauthor={Utkarsh Maheshwari},
     pdfkeywords={resume, software, engineer, programmer}
@@ -22,7 +22,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     TITLE NAME
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Utkarsh}{Maheshwari}{
+\namesection{Utkarsh}{Maheshwari}{coditva}{
     \sectionsep{}
     {\Large
         Software Engineer \textbullet{} Systems Programmer \textbullet{}
