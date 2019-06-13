@@ -5,7 +5,11 @@ FONTS       = fonts/*
 
 all: $(TARGET).pdf
 
-$(TARGET).pdf: $(SOURCES) $(FONTS)
+$(TARGET).pdf: $(SOURCES) $(FONTS) $(TARGET).out
+	xelatex $(TARGET).xtx
+
+.PHONY = $(TARGET).out
+$(TARGET).out:
 	xelatex $(TARGET).xtx
 
 clean:
