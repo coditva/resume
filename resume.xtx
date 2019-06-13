@@ -5,6 +5,13 @@
 \pagestyle{fancy}
 \fancyhf{}
 
+\hypersetup{
+    pdftitle={Utkarsh Maheshwari | Resume},
+    pdfsubject={Resume},
+    pdfauthor={Utkarsh Maheshwari},
+    pdfkeywords={resume, software, engineer, programmer}
+}
+
 \begin{document}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
