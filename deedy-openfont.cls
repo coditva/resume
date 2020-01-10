@@ -33,9 +33,9 @@
 \usepackage[UKenglish]{isodate}
 \setlength{\TPHorizModule}{1mm}
 \setlength{\TPVertModule}{1mm}
-\newcommand{\lastupdated}{\begin{textblock}{60}(167,2.5)
+\newcommand{\lastupdated}{\begin{textblock}{60}(163,2.5)
 \color{date}\fontspec[Path = fonts/raleway/]{Raleway-ExtraLight}\fontsize{8pt}{10pt}\selectfont 
-Last Updated on \today
+last updated on \today
 \end{textblock}}
 
 % Name command
@@ -44,7 +44,7 @@ Last Updated on \today
     \fontsize{35pt}{60pt}
     \fontspec[Path = fonts/lato/]{Lato-Lig}\selectfont #1 
     \fontspec[Path = fonts/lato/]{Lato-Reg}\selectfont #2
-    \fontspec[Path = fonts/lato/]{Lato-Hai}\selectfont (#3)
+    % \fontspec[Path = fonts/lato/]{Lato-Hai}\selectfont (#3)
 } \\[5pt]
 \centering{
 \color{headings}
@@ -72,7 +72,7 @@ Last Updated on \today
 
 \newcommand{\runimagesubsection}[2]{
     \begin{minipage}{0.06\textwidth}
-        \includegraphics[width=0.8\textwidth, height=0.8\textwidth]{#1}
+        \includegraphics[width=\textwidth, height=\textwidth]{#1}
     \end{minipage}
     \hfill
     \begin{minipage}{0.92\textwidth}

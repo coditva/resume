@@ -9,10 +9,10 @@
 \fancyhf{}
 
 \hypersetup{
-    pdftitle={Utkarsh Maheshwari (coditva) | Resume},
-    pdfsubject={Resume for Utkarsh Maheshwari (coditva)},
-    pdfauthor={Utkarsh Maheshwari},
-    pdfkeywords={resume, software, engineer, programmer, coditva, Utkarsh Maheshwari}
+    pdftitle={Parth Sarathi Patnaik | Resume},
+    pdfsubject={Resume for Parth Sarathi Patnaik},
+    pdfauthor={Parth Sarathi Patnaik},
+    pdfkeywords={resume, chef, hotelier}
 }
 
 \begin{document}
@@ -25,10 +25,10 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     TITLE NAME
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Utkarsh}{Maheshwari}{coditva}{
+\namesection{Parth Sarathi}{Patnaik}{}{
     {\Large
-        Software Engineer \textbullet{} Systems Programmer \textbullet{}
-        Open Source Aficionado
+        Chef \textbullet{} Hotelier \textbullet{}
+        Baking Aficionado \textbullet{} In Pursuit of Perfection
     }
     \sectionsep{}
 }
@@ -39,75 +39,72 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{minipage}[t]{0.33\textwidth}
 
+    \section{}
+\includegraphics[width=0.5\textwidth, height=0.5\textwidth]{parth}
+\sectionsep{}
+
+\section{Personal Details}
+\subsection{Date of Birth}
+19 November, 1997 \\
+\subsection{Address}
+103 EM-1, BDI Sunshine City, \\
+Alwar bypass road, Bhiwadi, \\
+Rajasthan - 301019 \\
+\subsection{Phone}
++91-9650977671
+\sectionsep{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Online Links
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Digital footprint}
-\subsection{Blog}
-    \urlstyle{same}\href{https://coditva.dev/}{{\bf coditva}.dev}
-    \sectionsep
-
 \subsection{Email}
-    \href{mailto:coditva@gmail.com}{{\bf coditva}@gmail.com}
-    \sectionsep
-
-\subsection{PGP Key}
-    \href{http://keys.gnupg.net/pks/lookup?op=get&search=0x5A40E60FB40CDEBE}{5A40E60FB40CDEBE}
+    \href{mailto:parthpatnaik97@gmail.com}{{\bf parthpatnaik97}@gmail.com}
     \sectionsep
 
 \subsection{Social}
-    \href{https://github.com/coditva}{github/\bf coditva} \\
-    \href{https://twitter.com/coditva}{twitter/\bf coditva} \\
-    \href{https://www.linkedin.com/in/coditva}{linkedin/\bf coditva}
+    \href{https://www.linkedin.com/in/parthpatnaik}{linkedin/\bf parthpatnaik} \\
+    \href{https://www.instagram.com/parthpatnaik}{instagram/\bf parthpatnaik}
     \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Languages}
+\section{Skills}
 \subsection{Proficient}
-C \textbullet{} NodeJS \textbullet{} Shell
-\sectionsep
+    Bakery \textbullet{} Patisserie
+    \sectionsep
 \subsection{Working knowledge}
-C++ \textbullet{} Java \textbullet{} Python \textbullet{} Go \textbullet{} Lua \textbullet{} \\
-Scala \textbullet{} Assembly \textbullet{} Web Tech \textbullet{} \\
-PHP \textbullet{} SQL \textbullet{} MongoDB \textbullet{} LaTeX
+    Choux \textbullet{} Laminated pastries \textbullet{} \\
+    Desserts \textbullet{} Breads \textbullet{} Chocolates
     \sectionsep{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     TOOLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Tools}
-Vim \textbullet{} Linux \textbullet{} Git \textbullet{} Docker \textbullet{} \\
-Make/Cmake \textbullet{} TravisCI
+\section{Interests}
+    Photography \textbullet{} \\
+    Doodling and Sketching \textbullet{} \\
+    Culinary Literature \textbullet{} \\
+    Cycling
     \sectionsep{}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Open Source
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Open Source}
-Neovim \textbullet{} Elementary Tweaks \textbullet{} \\
-Gnome Todo \textbullet{} BaremetalOS
-    \sectionsep{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Hobbies
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Hobbies}
-Literature \textbullet{} Philosophy \textbullet{} \\
-Playing Bass Guitar \textbullet{} Cooking \textbullet{} \\
-Photography \textbullet{} Graphics Design
-\sectionsep{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     References
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{References}
-\subsection{Subhasis Bhattacharya}
-\location{Director - Software Engineering}
-PBSWorks, Altair Engineering
+\subsection{Chef Sunil Arya}
+\location{Lecturer, Food Production}
+AIHM Chandigarh
 \sectionsep{}
 
 
@@ -126,48 +123,37 @@ PBSWorks, Altair Engineering
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-    \runimagesubsection{postman.png}{
-    \runsubsection{Postman}
-    \descript{| Software Engineer}
-    \location{Jun 2019 - present | Bangalore, India}
-}
-\sectionsep{}
-
-
-\runimagesubsection{altair.png}{
-    \runsubsection{PBSWorks, Altair Engineering}
-    \descript{| Software Engg. Intern}
-    \location{Jul 2018 - Dec 2018 | Bangalore, India}
-}
+\runimagesubsection{lalit}{
+    \runsubsection{The LaLiT Group of Hotels and Resorts} \\
+    \descript{Kitchen Management Trainee}
+    \location{Jul 2019 - present | New Delhi, India}
+} \\
 \begin{tightemize}
-    \item Led and completed the project for adding support in Apache Spark to
-        use PBSPro as a cluster workload manager.
-    \item {\bf \href{https://github.com/PBSPro/spark-pbspro-connector}{github.com/pbspro/spark-pbspro-connector}}
+    \item Got a complete {\bf hands on exposure} of all the ancillary departments and learnt about all the back-end operations.
+    \item Completed a cross training tenure in food and beverage service department.
+    \item Worked hands-on with on-floor staff in up-selling services, {\bf maximizing revenue and achieving targets}.
 \end{tightemize}
 \sectionsep{}
 
-
-\runimagesubsection{neovim.png}{
-    \runsubsection{Neovim}
-    \descript{| Google Summer of Code Student}
-    \location{May 2018 – Aug 2018 | Remote}
-}
+\runimagesubsection{leela}{
+    \runsubsection{The Leela Hotels, Palaces and Resorts} \\
+    \descript{Industrial Trainee}
+    \location{Nov 2017 - Mar 2018 | New Delhi, India}
+} \\
 \begin{tightemize}
-    \item Improved external UI protocol to allow applications to provide ``vim-mode''.
-    \item {\bf \href{https://github.com/neovim/neovim/issues/8320}{github.com/neovim/neovim/issues/8320}}
+    \item Worked in the {\bf 4 core departments} and got an all round elementary exposure of the industry with an {\bf extended period in bakery}.
 \end{tightemize}
 \sectionsep{}
 
-
-\runimagesubsection{aiims.png}{
-    \runsubsection{AIIMS Bhopal}
-    \descript{| Software Engg. Intern}
-    \location{Jun 2018 – Jul 2018 | Bhopal, India}
-}
+\runimagesubsection{kitchen-club}{
+    \runsubsection{Kitchen Club AIHM Chandigarh} \\
+    \descript{Co-ordinator}
+    \location{Nov 2017 - Mar 2018 | New Delhi, India}
+} \\
 \begin{tightemize}
-    \item Wrote the backend for a webapp for medical reports and inventory management.
-    \item
-        {\bf \href{https://github.com/BitsAiims2017/api}{github.com/bitsaiims2017/api}}
+    \item {\bf Led several teams} in several events in bakery and kitchen making {\bf each one a success} in college and various other outdoor catering in Chandigarh and NCR.
+    \item Practiced various techniques and products everyday and improved my hand in {\bf French laminated pastries} and mastered {\bf choux pastry products}.
+    \item Participated in various {\bf national and internal culinary competitions} during the course of 3 years in college and won many accolades.
 \end{tightemize}
 \sectionsep{}
 
@@ -175,52 +161,35 @@ PBSWorks, Altair Engineering
 %     EDUCATION
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Education}
-\runimagesubsection{bits.png}{
-    \runsubsection{Birla Institute of Technology and Science, Pilani} \\
-    \descript{Bachelor of Engineering, Computer Science}
-    \location{Aug 2015 - May 2019 | Goa, India}
-} \break
-Elective Courses: Network Programming, Internetworking Technologies, Software Engineering and Software for Embedded Systems.
+\runimagesubsection{aihm}{
+    \runsubsection{Dr. Ambedkar Institute of Hotel Management } \\
+    \descript{B.Sc. in Hospitality and Hotel Administration}
+    \location{Aug 2016 - May 2019 | Chandigarh, India}
+} \\
+\begin{tightemize}
+    \item Percentage aggregate: {\bf 83.78\%}
+    \item Always one of {\bf top 5 students} for all semesters
+\end{tightemize}
 \sectionsep{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     PROJECTS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Projects}
-\runsubsection{Jazz}
-\descript{| OS Development}
-\location{\href{https://github.com/coditva/Jazz}{github.com/coditva/Jazz}}
-Jazz is a hobby OS in its early stages written from scratch as a proof of concept to understand OS by doing.
-    \sectionsep{}
-
-\runsubsection{UDT Protocol implementation}
-\descript{| Network Programming}
-\location{\href{https://github.com/coditva/udt-c}{github.com/coditva/udt-c}}
-An implementation of the UDP-based Data Transfer (UDT) protocol in C. UDT is
-a much faster data transfer protocol than TCP with a socket interface just
-like TCP.
-    \sectionsep{}
-
-\runsubsection{Synergy}
-\descript{| Network Programming}
-\location{\href{https://github.com/coditva/Synergy-linux}{github.com/coditva/Synergy-linux}}
-An application to sync Android and Linux notifications when connected to the
-same local network, written in C and allows extension through plugins.
+\section{Accolades}
 \sectionsep{}
-
-\runsubsection{Write. Run. Tweak.}
-\descript{| 2D Game Development}
-\location{\href{https://github.com/coditva/WRT}{github.com/coditva/WRT}}
-A game submission for GitHubGameOff 2019 game jam written in Lua and LOVE2d.
-\sectionsep{}
-
-\runsubsection{A Vim Story}
-\descript{| Low Graphics Game Development}
-\location{\href{https://github.com/coditva/a-vim-story}{github.com/coditva/a-vim-story}}
-A ncurses based 2D (bomberman-like) game to learn Vi/Vim, written purely in C
-language with LibNcurses, CMake, Doxygen.
-\sectionsep{}
+\begin{tightemize}
+    \item {\bf Chef of the Year}, AIHM Chandigarh for the year 2019.
+    \item {\bf 2nd runner up} of Chef Competition, AIHM Chandigarh, 2019.
+    \item {\bf 1st runner up} of Bakery Competition, AIHM Chandigarh, 2019.
+    \item {\bf All India Rank 8} in B.Sc. 2nd semester.
+    \item {\bf Winner} of Dessert Making Competition in Vaibhav held at {\bf All India IHM} level in Gwalior.
+    \item EVEREST Culinary Award for excellence for {\bf top scorer} in food production for {\bf all 3 years} in college with scholarships.
+    \item {\bf 1st runner up} of North India Patisserie Competition 2019.
+    \item {\bf Winner} of Bakery Quiz at {\bf North India Patisserie Competition 2019}.
+    \item {\bf Winner of Cake Competition} at North India Patisserie Competition 2019 (made a 5 layered mirror glazed cake).
+    \item {\bf Winner} of Gourmet Plated Dessert Competition at North India Patisserie Competition 2019.
+\end{tightemize}
 
 \end{minipage}
 \end{document}  \documentclass[]{article}
