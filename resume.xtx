@@ -37,7 +37,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COLUMN ONE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{minipage}[t]{0.33\textwidth}
+\begin{minipage}[t]{0.36\textwidth}
 
     \section{}
 \includegraphics[width=0.5\textwidth, height=0.5\textwidth]{parth}
@@ -58,6 +58,12 @@ Rajasthan - 301019 \\
 %     Online Links
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Digital footprint}
+\subsection{Blog}
+    \href{https://bakerkibaatein.com}{\bf BakerKiBaatein.com} \\
+    \href{https://www.instagram.com/bakerkibaatein}{instagram/\bf BakerKiBaatein} \\
+    \href{https://www.facebook.com/bakerkibaatein}{facebook/\bf BakerKiBaatein}
+    \sectionsep
+
 \subsection{Email}
     \href{mailto:parthpatnaik97@gmail.com}{{\bf parthpatnaik97}@gmail.com}
     \sectionsep
@@ -75,18 +81,15 @@ Rajasthan - 301019 \\
     Bakery \textbullet{} Patisserie
     \sectionsep
 \subsection{Working knowledge}
-    Choux \textbullet{} Laminated pastries \textbullet{} \\
-    Desserts \textbullet{} Breads \textbullet{} Chocolates
-    \sectionsep{}
+    Bread \textbullet{} Sourdough \textbullet{} Cakes \textbullet{} \\
+    Laminated pastries \textbullet{} Choux \textbullet{} \\
+    Plated desserts \textbullet{} Chocolates \sectionsep{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     TOOLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Interests}
-    Photography \textbullet{} \\
-    Doodling and Sketching \textbullet{} \\
-    Culinary Literature \textbullet{} \\
-    Cycling
+    Food styling and photography
     \sectionsep{}
 
 
@@ -116,7 +119,7 @@ AIHM Chandigarh
 
 \end{minipage}
 \hfill
-\begin{minipage}[t]{0.66\textwidth}
+\begin{minipage}[t]{0.63\textwidth}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
