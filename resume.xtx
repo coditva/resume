@@ -37,7 +37,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COLUMN ONE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{minipage}[t]{0.36\textwidth}
+\begin{minipage}[t]{0.32\textwidth}
 
     \section{}
 \includegraphics[width=0.5\textwidth, height=0.5\textwidth]{parth}
@@ -48,8 +48,7 @@
 19 November, 1997 \\
 \subsection{Address}
 103 EM-1, BDI Sunshine City, \\
-Alwar bypass road, Bhiwadi, \\
-Rajasthan - 301019 \\
+Bhiwadi, Rajasthan - 301019 \\
 \subsection{Phone}
 +91-8619921148
 \sectionsep{}
@@ -79,19 +78,20 @@ Rajasthan - 301019 \\
 \section{Skills}
 \subsection{Proficient}
     Bakery \textbullet{} Patisserie \textbullet{} Backend \\
-    Operations
+    Operations \textbullet{} Food Plating \textbullet{} \\
+    Croissant and laminated pastries
     \sectionsep
 \subsection{Working knowledge}
-    Croissant and laminated pastries \textbullet{} \\
     Bread \textbullet{} Sourdough \textbullet{} Cakes \textbullet{} \\
     Choux \textbullet{} Plated desserts
+    \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     TOOLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Interests}
-    Food styling and photography
-    \sectionsep{}
+    Food styling and photography \textbullet{} \\
+    Food Fermentation
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -105,10 +105,10 @@ Rajasthan - 301019 \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     References
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{References}
-\subsection{Chef Dhanbir Singh Rawat}
-\location{Pastry Chef}
-The LaLiT, Chandigarh
+% \section{References}
+% \subsection{Chef Nandita Karan}
+% \location{Executive Chef}
+% The LaLiT, Chandigarh
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -119,26 +119,41 @@ The LaLiT, Chandigarh
 
 \end{minipage}
 \hfill
-\begin{minipage}[t]{0.63\textwidth}
+\begin{minipage}[t]{0.67\textwidth}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\subsectionsep
+\subsectionsep
 \section{Experience}
+\jobtitlesep
 \runimagesubsection{lalit}{
     \runsubsection{The LaLiT Group of Hotels and Resorts} \\
-    \descript{Kitchen Management Trainee}
-    \location{Jul 2019 - present | New Delhi | Goa | Chandigarh | Srinagar}
+    \descript{Junior Sous Chef}
+    \location{Feb 2022 - Present | Chandigarh}
 } \\
 \begin{tightemize}
+    \item Leading and managing the bakery and patisserie at The LaLiT Chandigarh, a 169 rooms property.
+\end{tightemize}
+\sectionsep{}
+
+\jobtitlesep
+\runmarginsubsection{
+    \descript{Kitchen Management Trainee}
+    \location{Jul 2019 - Jan 2022 | New Delhi | Goa | Chandigarh | Srinagar | Kolkata}
+} \\
+\begin{tightemize}
+    \item Led the day-to-day operations of the bakery and patisserie at Chandigarh. {\bf Managed a team of four.}
     \item Worked for a brief period of time in banquet and event sales. Closed deals which made up to {\bf 5-6 lacs in revenue} during the pandemic. Worked with the team in up-selling services, {\bf maximizing revenue and achieving targets}.
-    \item Was {\bf sole in-charge} of and gained efficiency in indenting, store requisitions, guest handling, planning and managing operations in a 112 rooms property in Srinagar, J\&K.
+    \item Was {\bf sole in-charge} of and gained efficiency in inventory, store requisitions, guest handling, planning and managing operations in a 112 rooms property in Srinagar, J\&K.
     \item Got a complete {\bf hands on exposure} of all the ancillary departments and learnt about all the back-end operations.
     \item Completed a cross training tenure in {\bf food and beverage service} department.
 \end{tightemize}
 \sectionsep{}
 
+\subsectionsep
 \runimagesubsection{leela}{
     \runsubsection{The Leela Hotels, Palaces and Resorts} \\
     \descript{Industrial Trainee}
@@ -149,6 +164,7 @@ The LaLiT, Chandigarh
 \end{tightemize}
 \sectionsep{}
 
+\subsectionsep
 \runimagesubsection{kitchen-club}{
     \runsubsection{Kitchen Club, AIHM Chandigarh} \\
     \descript{Co-ordinator}
@@ -164,6 +180,7 @@ The LaLiT, Chandigarh
 %     EDUCATION
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Education}
+\jobtitlesep
 \runimagesubsection{iwbs}{
     \runsubsection{Institute of Wine and Beverage Studies} \\
     \location{Jan 2020 | New Delhi, India}
@@ -173,6 +190,7 @@ The LaLiT, Chandigarh
 \end{tightemize}
 \sectionsep{}
 
+\subsectionsep
 \runimagesubsection{aihm}{
     \runsubsection{Dr. Ambedkar Institute of Hotel Management } \\
     \descript{B.Sc. in Hospitality and Hotel Administration}
@@ -180,16 +198,21 @@ The LaLiT, Chandigarh
 } \\
 \begin{tightemize}
     \item Percentage aggregate: {\bf 83.78\%}
-    \item Always one of {\bf top 5 students} for all semesters
+    \item One of {\bf top 5 students} for all semesters
 \end{tightemize}
 \sectionsep{}
+\end{minipage}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     PROJECTS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{minipage}[t]{0.32\textwidth}
+\hfill
+\end{minipage}
+\begin{minipage}[t]{0.67\textwidth}
 
 \section{Accolades}
-\sectionsep{}
+\subsectionsep
 \begin{tightemize}
     \item {\bf Chef of the Year}, AIHM Chandigarh for the year 2019.
     \item {\bf Winner of Cake Competition} at North India Patisserie Competition 2019 (made a 5 layered mirror glazed cake).
@@ -197,11 +220,11 @@ The LaLiT, Chandigarh
     \item {\bf 2nd runner up} of Chef Competition, AIHM Chandigarh, 2019.
     \item {\bf 1st runner up} of Bakery Competition, AIHM Chandigarh, 2019.
     \item {\bf All India Rank 8} in B.Sc. 2nd semester.
-    \item {\bf Winner} of Dessert Making Competition at {\bf All India IHM} level in Gwalior.
-    \item {\bf 1st runner up} of North India Patisserie Competition 2019.
-    \item {\bf Winner} of Bakery Quiz at {\bf North India Patisserie Competition 2019}.
-    \item {\bf Winner} of Gourmet Plated Dessert Competition at North India Patisserie Competition 2019.
+    \item {\bf winner} of dessert making competition at {\bf all india ihm} level in gwalior.
+    \item {\bf 1st runner up} of north india patisserie competition 2019.
+    \item {\bf winner} of bakery quiz at {\bf north india patisserie competition 2019}.
+    \item {\bf winner} of gourmet plated dessert competition at north india patisserie competition 2019.
 \end{tightemize}
-
 \end{minipage}
+
 \end{document}  \documentclass[]{article}

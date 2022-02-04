@@ -1,3 +1,5 @@
+% vi:ft=tex
+
 % Intro Options
 \ProvidesClass{deedy-resume-openfont}[2014/04/30 CV class]
 \NeedsTeXFormat{LaTeX2e}
@@ -17,9 +19,9 @@
 \renewcommand\refname{\vskip -1.5cm}
 
 % Color definitions
-\usepackage[usenames,dvipsnames]{xcolor} 
-\definecolor{date}{HTML}{666666} 
-\definecolor{primary}{HTML}{2b2b2b} 
+\usepackage[usenames,dvipsnames]{xcolor}
+\definecolor{date}{HTML}{666666}
+\definecolor{primary}{HTML}{2b2b2b}
 \definecolor{headings}{HTML}{6A6A6A}
 \definecolor{subheadings}{HTML}{333333}
 
@@ -29,20 +31,19 @@
 \setsansfont[Scale=MatchLowercase,Mapping=tex-text, Path = fonts/raleway/]{Raleway-ExtraLight}
 
 % Date command
-\usepackage[absolute]{textpos}
+\usepackage[]{textpos}
 \usepackage[UKenglish]{isodate}
 \setlength{\TPHorizModule}{1mm}
 \setlength{\TPVertModule}{1mm}
 \newcommand{\lastupdated}{\begin{textblock}{60}(163,2.5)
-\color{date}\fontspec[Path = fonts/raleway/]{Raleway-ExtraLight}\fontsize{8pt}{10pt}\selectfont 
-last updated on \today
+\color{date}\fontspec[Path = fonts/raleway/]{Raleway-ExtraLight}\fontsize{8pt}{10pt}\selectfont
 \end{textblock}}
 
 % Name command
 \newcommand{\namesection}[4]{
 \centering{
     \fontsize{35pt}{60pt}
-    \fontspec[Path = fonts/lato/]{Lato-Lig}\selectfont #1 
+    \fontspec[Path = fonts/lato/]{Lato-Lig}\selectfont #1
     \fontspec[Path = fonts/lato/]{Lato-Reg}\selectfont #2
     % \fontspec[Path = fonts/lato/]{Lato-Hai}\selectfont (#3)
 } \\[5pt]
@@ -53,15 +54,15 @@ last updated on \today
 \vspace{-15pt}
 }
 
-% Section seperators 
+% Section seperators
 \usepackage{titlesec}
-\titlespacing{\section}{0pt}{0pt}{0pt} 
+\titlespacing{\section}{16pt}{10pt}{2pt}
 \titlespacing{\subsection}{0pt}{0pt}{0pt}
 \newcommand{\sectionsep}{\vspace{7pt}}
 
 % Headings command
 \titleformat{\section}{\color{headings}
-\scshape\fontspec[Path = fonts/lato/]{Lato-Lig}\fontsize{15pt}{24pt}\selectfont \raggedright\uppercase}{}{0em}{}
+\scshape\fontspec[Path = fonts/lato/]{Lato-Lig}\fontsize{15pt}{24pt}\selectfont \raggedright\uppercase}{}{-0.5em}{}
 
 % Subeadings command
 \titleformat{\subsection}{
@@ -79,6 +80,17 @@ last updated on \today
     { #2 }
     \end{minipage}
 }
+\newcommand{\runmarginsubsection}[1]{
+    \begin{minipage}{0.06\textwidth}
+    \end{minipage}
+    \hfill
+    \begin{minipage}{0.92\textwidth}
+    { #1 }
+    \end{minipage}
+}
+
+\newcommand{\jobtitlesep}{\vspace{0.5em}}
+\newcommand{\subsectionsep}{\vspace{1em}}
 
 % Descriptors command
 \newcommand{\descript}[1]{
@@ -92,4 +104,3 @@ last updated on \today
 \newenvironment{tightemize}{
 \vspace{-\topsep}\begin{itemize}\itemsep1pt \parskip0pt \parsep0pt}
 {\end{itemize}\vspace{-\topsep}}
-
