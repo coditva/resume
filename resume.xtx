@@ -128,19 +128,59 @@ Bhiwadi, Rajasthan - 301019 \\
 \subsectionsep
 \subsectionsep
 \section{Experience}
-\jobtitlesep
-\runimagesubsection{lalit}{
-    \runsubsection{The LaLiT Group of Hotels and Resorts} \\
-    \descript{Junior Sous Chef}
-    \location{Feb 2022 - Present | Chandigarh}
+\runimagesubsection{leela}{
+    \runsubsection{The Leela Hotels, Palaces and Resorts} \\
+    \descript{LLDP Associate – General Management Trainee}
+    \location{May 2022 - Present | New Delhi, India}
 } \\
 \begin{tightemize}
-    \item Leading and managing the bakery and patisserie at The LaLiT Chandigarh, a 169 rooms property.
+    \item Joined Leela Leadership Development Programme in association with Indian School
+        of Hospitality to up-skill myself as a well rounded hotelier.
+    \item Currently working in Front Office to learn all the front of the house
+        operations better. Diving deep into figures and finances of the business and
+        alongside studying the business management modules with ISH.
 \end{tightemize}
 \sectionsep{}
 
+\subsectionsep
+\runimagesubsection{karwaan}{
+    \runsubsection{Karwaan International Air Services} \\
+    \descript{In-flight catering and experiences coordinator}
+    \location{Feb 2022 - May 2022 | New Delhi, India}
+} \\
+\begin{tightemize}
+    % \item It's a new company in the realm of private charters approximately doing 90 hours of flights a month.
+    % \item Streamlined the in-flight catering by designing standard menus and preferential menus.
+    % \item Served as the point of contact for all the HNIs' coordinators to take care of their needs and requirements.
+    % \item Initiated several projects to enhance the charter experience of the passengers.
+    % \item Coordinated with many new vendors and added them into the company's accounts for procurement of the many products.
+    % \item Worked on new ideas, executed them on small scale and tested the market for the response.
+    % \item Took care of the feedback management system after each flight and
+    %     established the SOP for RCA in case of complaints and ensured recovery
+    %     for the same.
+    %
+    \item Led the catering and flight experience section for the brand.
+    \item Initiated and tested many projects in the tenure.
+    \item Streamlined ongoing and new processes.
+\end{tightemize}
+\sectionsep{}
+
+
 \jobtitlesep
-\runmarginsubsection{
+% \runimagesubsection{lalit}{
+    % \runsubsection{The LaLiT Group of Hotels and Resorts} \\
+    % \descript{Junior Sous Chef}
+    % \location{Feb 2022 - Jan 2022 | Chandigarh}
+% } \\
+% \begin{tightemize}
+%     \item Leading and managing the bakery and patisserie at The LaLiT Chandigarh, a 169 rooms property.
+% \end{tightemize}
+% \sectionsep{}
+
+\jobtitlesep
+% \runmarginsubsection{
+\runimagesubsection{lalit}{
+    \runsubsection{The LaLiT Group of Hotels and Resorts} \\
     \descript{Kitchen Management Trainee}
     \location{Jul 2019 - Jan 2022 | New Delhi | Goa | Chandigarh | Srinagar | Kolkata}
 } \\
@@ -176,6 +216,12 @@ Bhiwadi, Rajasthan - 301019 \\
 \end{tightemize}
 \sectionsep{}
 
+\end{minipage}
+\begin{minipage}[t]{0.32\textwidth}
+    \hfill
+\end{minipage}
+\begin{minipage}[t]{0.67\textwidth}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EDUCATION
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -201,16 +247,10 @@ Bhiwadi, Rajasthan - 301019 \\
     \item One of {\bf top 5 students} for all semesters
 \end{tightemize}
 \sectionsep{}
-\end{minipage}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     PROJECTS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{minipage}[t]{0.32\textwidth}
-\hfill
-\end{minipage}
-\begin{minipage}[t]{0.67\textwidth}
-
 \section{Accolades}
 \subsectionsep
 \begin{tightemize}
@@ -225,6 +265,6 @@ Bhiwadi, Rajasthan - 301019 \\
     \item {\bf winner} of bakery quiz at {\bf north india patisserie competition 2019}.
     \item {\bf winner} of gourmet plated dessert competition at north india patisserie competition 2019.
 \end{tightemize}
-\end{minipage}
 
+\end{minipage}
 \end{document}  \documentclass[]{article}
