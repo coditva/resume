@@ -50,7 +50,8 @@
 103 EM-1, BDI Sunshine City, \\
 Bhiwadi, Rajasthan - 301019 \\
 \subsection{Phone}
-+91-8619921148
++91-96509-77671 \\
++91-86199-21148
 \sectionsep{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -76,22 +77,24 @@ Bhiwadi, Rajasthan - 301019 \\
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Skills}
+\subsection{Interpersonal skills}
+    Training sessions \textbullet{} Prompt \\
+    follow ups \textbullet{} Networking \textbullet{} \\
+    Effective communication
+    \sectionsep
 \subsection{Proficient}
-    Bakery \textbullet{} Patisserie \textbullet{} Backend \\
-    Operations \textbullet{} Food Plating \textbullet{} \\
-    Croissant and laminated pastries
+    PMS \textbullet{} MS Office \textbullet{} \\
+    Bakery \textbullet{} Patisserie
+    % Backend \\
+    % Operations \textbullet{} Food Plating \textbullet{} \\
+    % Croissant and laminated pastries
     \sectionsep
 \subsection{Working knowledge}
+    Front office \textbullet{} Food \& beverage \\
+    service \textbullet{} Hotel finances \textbullet{} MIS \textbullet{} \\
     Bread \textbullet{} Sourdough \textbullet{} Cakes \textbullet{} \\
-    Choux \textbullet{} Plated desserts
+    Plated desserts
     \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     TOOLS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Interests}
-    Food styling and photography \textbullet{} \\
-    Food Fermentation
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -130,15 +133,27 @@ Bhiwadi, Rajasthan - 301019 \\
 \section{Experience}
 \runimagesubsection{leela}{
     \runsubsection{The Leela Hotels, Palaces and Resorts} \\
-    \descript{LLDP Associate – General Management Trainee}
+    \descript{LLDP Associate – Leadership Trainee}
     \location{May 2022 - Present | New Delhi, India}
 } \\
 \begin{tightemize}
     \item Joined Leela Leadership Development Programme in association with Indian School
         of Hospitality to up-skill myself as a well rounded hotelier.
-    \item Currently working in Front Office to learn all the front of the house
-        operations better. Diving deep into figures and finances of the business and
-        alongside studying the business management modules with ISH.
+    \item Worked in all the departments of a 480 rooms inventory hotel and one
+        of India's largest convention space.
+    \item Always keen to enhance guest experiences through indulging
+        conversations, anticipating needs and proactive follow ups.
+    \item Led a small team of 8 to open a new exclusive lounge space in the
+        hotel, taking care of the team trainings, inter-department follow ups
+        and setting up the standards on the LQA benchmark.
+    \item Have a well rounded experience of all the core operations in the
+        hotel such as rooms division, food \& beverage service and culinary
+        along with sales \& marketing, revenue and finance.
+    \item Have a good understanding of the business, hotel finances and MIS.
+
+%     \item Currently working in Front Office to learn all the front of the house
+%         operations better. Diving deep into figures and finances of the business and
+%         alongside studying the business management modules with ISH.
 \end{tightemize}
 \sectionsep{}
 
@@ -188,8 +203,8 @@ Bhiwadi, Rajasthan - 301019 \\
     \item Led the day-to-day operations of the bakery and patisserie at Chandigarh. {\bf Managed a team of four.}
     \item Worked for a brief period of time in banquet and event sales. Closed deals which made up to {\bf 5-6 lacs in revenue} during the pandemic. Worked with the team in up-selling services, {\bf maximizing revenue and achieving targets}.
     \item Was {\bf sole in-charge} of and gained efficiency in inventory, store requisitions, guest handling, planning and managing operations in a 112 rooms property in Srinagar, J\&K.
-    \item Got a complete {\bf hands on exposure} of all the ancillary departments and learnt about all the back-end operations.
-    \item Completed a cross training tenure in {\bf food and beverage service} department.
+    % \item Got a complete {\bf hands on exposure} of all the ancillary departments and learnt about all the back-end operations.
+    % \item Completed a cross training tenure in {\bf food and beverage service} department.
 \end{tightemize}
 \sectionsep{}
 
@@ -210,15 +225,22 @@ Bhiwadi, Rajasthan - 301019 \\
     \descript{Co-ordinator}
     \location{Nov 2017 - Mar 2018 | New Delhi, India}
 } \\
-\begin{tightemize}
-    \item {\bf Led several teams} in several events in bakery and kitchen making {\bf each one a success} in college and various other catering in Chandigarh and NCR.
-    \item Participated in various {\bf national and internal culinary competitions}.
-\end{tightemize}
+% \begin{tightemize}
+%     \item {\bf Led several teams} in several events in bakery and kitchen making {\bf each one a success} in college and various other catering in Chandigarh and NCR.
+%     \item Participated in various {\bf national and internal culinary competitions}.
+% \end{tightemize}
 \sectionsep{}
 
 \end{minipage}
 \begin{minipage}[t]{0.32\textwidth}
-    \hfill
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     TOOLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Interests}
+    Food styling and photography \textbullet{} \\
+    Food Fermentation
+
 \end{minipage}
 \begin{minipage}[t]{0.67\textwidth}
 
