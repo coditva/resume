@@ -26,10 +26,9 @@
 %     TITLE NAME
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Utkarsh}{Maheshwari}{coditva}{
-    {\Large
-        Software Engineer \textbullet{} Systems Programmer \textbullet{}
-        Open Source Aficionado
-    }
+    % {\Large
+    %     Software Engineer \textbullet{} Systems Programmer
+    % }
     \sectionsep{}
 }
 \sectionsep{}
@@ -52,10 +51,6 @@
     \href{mailto:coditva@gmail.com}{{\bf coditva}@gmail.com}
     \sectionsep
 
-\subsection{PGP Key}
-    \href{http://keys.gnupg.net/pks/lookup?op=get&search=0x5A40E60FB40CDEBE}{5A40E60FB40CDEBE}
-    \sectionsep
-
 \subsection{Social}
     \href{https://github.com/coditva}{github/\bf coditva} \\
     \href{https://twitter.com/coditva}{twitter/\bf coditva} \\
@@ -65,23 +60,20 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Languages}
-\subsection{Proficient}
-C \textbullet{} NodeJS \textbullet{} Shell
-\sectionsep
-\subsection{Working knowledge}
-C++ \textbullet{} Java \textbullet{} Python \textbullet{} Go \textbullet{} Lua \textbullet{} \\
-Scala \textbullet{} Assembly \textbullet{} Web Tech \textbullet{} \\
-PHP \textbullet{} SQL \textbullet{} MongoDB \textbullet{} LaTeX
+\section{Skills}
+    JavaScript /\ TypeScript \textbullet{} \\
+    NodeJS \textbullet{} React \textbullet{} \\
+    MobX \textbullet{} React Query \textbullet{} \\
+    SailsJS \textbullet{} Jest /\ Mocha \textbullet{} \\
+    Git \textbullet{} Bash
     \sectionsep{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     TOOLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Tools}
-Vim \textbullet{} Linux \textbullet{} Git \textbullet{} Docker \textbullet{} \\
-Make/Cmake \textbullet{} TravisCI
-    \sectionsep{}
+% \section{Tools}
+% Vim /\ Neovim \textbullet{} Linux \textbullet{} Docker \textbullet{}
+%     \sectionsep{}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -96,19 +88,18 @@ Gnome Todo \textbullet{} BaremetalOS
 %     Hobbies
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Hobbies}
-Literature \textbullet{} Philosophy \textbullet{} \\
-Playing Bass Guitar \textbullet{} Cooking \textbullet{} \\
+Reading \textbullet{} Running \textbullet{} Cooking \textbullet{} \\
 Photography \textbullet{} Graphics Design
 \sectionsep{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     References
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{References}
-\subsection{Subhasis Bhattacharya}
-\location{Director - Software Engineering}
-PBSWorks, Altair Engineering
-\sectionsep{}
+% \section{References}
+% \subsection{Subhasis Bhattacharya}
+% \location{Director - Software Engineering}
+% PBSWorks, Altair Engineering
+% \sectionsep{}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -128,9 +119,17 @@ PBSWorks, Altair Engineering
 \section{Experience}
     \runimagesubsection{postman.png}{
     \runsubsection{Postman}
-    \descript{| Software Engineer}
-    \location{Jun 2019 - present | Bangalore, India}
+    \descript{| Senior Software Engineer}
+    \location{Jun 2019 - present | Bangalore, India | Remote}
 }
+\begin{tightemize}
+    \item Played key role in re-design of \href{https://github.com/postmanlabs/postman-app-support/issues/5903#issuecomment-680240441}{Postman UI for API Client}.
+    \item Worked on the API Client team and interfaced directly with users to understand, debug, fix issues and gain feedback.
+    \item Designed, built and benchmarked APIs for bulk operations of Collections.
+    \item Worked on various performance improvements, both front-end and back-end.
+    \item Built out Postman's Collections and Environments feature in Postman for VSCode extension.
+    \item Led, mentored and scaled up various SE1 and SE2 engineers.
+\end{tightemize}
 \sectionsep{}
 
 
@@ -215,12 +214,12 @@ same local network, written in C and allows extension through plugins.
 A game submission for GitHubGameOff 2019 game jam written in Lua and LOVE2d.
 \sectionsep{}
 
-\runsubsection{A Vim Story}
-\descript{| Low Graphics Game Development}
-\location{\href{https://github.com/coditva/a-vim-story}{github.com/coditva/a-vim-story}}
-A ncurses based 2D (bomberman-like) game to learn Vi/Vim, written purely in C
-language with LibNcurses, CMake, Doxygen.
-\sectionsep{}
+% \runsubsection{A Vim Story}
+% \descript{| Low Graphics Game Development}
+% \location{\href{https://github.com/coditva/a-vim-story}{github.com/coditva/a-vim-story}}
+% A ncurses based 2D (bomberman-like) game to learn Vi/Vim, written purely in C
+% language with LibNcurses, CMake, Doxygen.
+% \sectionsep{}
 
 \end{minipage}
 \end{document}  \documentclass[]{article}
